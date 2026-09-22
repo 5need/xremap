@@ -58,10 +58,10 @@ default_mode: my_start_mode # Default is "default"
 
 This will be the value of `mode` when `xremap` starts. `mode` [is described here](../README.md#mode).
 
-### notififactions
+### notifications
 
 ```yml
-notififactions: true # Default is false
+notifications: true # Default is false
 # Rest of your config file
 ```
 
